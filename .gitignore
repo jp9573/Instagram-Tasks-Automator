@@ -1,0 +1,5 @@
+idea/*.*
+*.pyc
+.idea/
+.DS_Store
+venv/
