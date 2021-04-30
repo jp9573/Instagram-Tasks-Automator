@@ -3,3 +3,5 @@ idea/*.*
 .idea/
 .DS_Store
 venv/
+.env
+session_info.txt
